@@ -1,0 +1,13 @@
+.Navbar{
+    text-align: center;
+}
+
+.Navbar a{
+    display: block;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.Navbar a:hover{
+    background-color: #fff9;
+}
